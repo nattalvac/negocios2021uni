@@ -1,3 +1,4 @@
 Nat Alvac
 city: Aqp
-Country: Per
+Country: Perù
+Parents: R&J J&R
